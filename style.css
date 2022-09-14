@@ -1,0 +1,8 @@
+body {
+    background-image: url(Grass.png);
+}
+
+.box {
+    height: 10vh;
+    width: 6vw;
+}
